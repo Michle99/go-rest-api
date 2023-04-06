@@ -12,4 +12,9 @@
 - Docker
 - Docker-Compose
 
-# 
+
+# Getting Started
+Fork the repository and run the application:
+```
+go run .
+```
